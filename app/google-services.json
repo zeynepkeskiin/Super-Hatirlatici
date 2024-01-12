@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385386285490",
+    "project_id": "superhatirlatici-af831",
+    "storage_bucket": "superhatirlatici-af831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385386285490:android:f5dcadef6647ffee5f7cab",
+        "android_client_info": {
+          "package_name": "com.odev.hatrlatici"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDncvf28KTkiTFKUHHztjer0K636X45OSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

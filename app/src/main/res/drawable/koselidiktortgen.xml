@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Renk, beyaz (#FFFFFF) -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#00000000" /> <!-- Şeffaf renk -->
+            <corners android:radius="8dp" /> <!-- Köşe yuvarlatma miktarı -->
+            <stroke
+                android:width="0.5dp"/> <!-- Çizgi kalınlığı -->
+            android:color="#000000" /> <!-- Çizgi rengi, siyah (#000000) -->
+        </shape>
+    </item>
+</layer-list>
